@@ -7,7 +7,7 @@ When you open up a new QGIS project, the interface will look something like this
 knitr::include_graphics("screenshots/qgis_window.png")
 ```
 
-## Adding a spatial dataset to QGIS 
+## Add a spatial dataset (shapefile) to QGIS 
 
 To add a spatial dataset (and in particular, a shapefile) to QGIS, first select ```Layer``` from the top menu, scroll down to ```Add Layer``` and then select ```Add Vector Layer```:
 
@@ -144,7 +144,7 @@ knitr::include_graphics("screenshots/symbology3dd.png")
 
 Once you do so, you'll see that field's data appear, with a default color scheme:
 
-```{r, echo=F, fig.cap="Select categories to be displayed" }
+```{r, echo=F, fig.cap="Default colors and intervals" }
 knitr::include_graphics("screenshots/default_legend.png")
 ```
 

@@ -40,10 +40,15 @@ fig:unnamed-chunk-39
 fig:unnamed-chunk-40
 fig:unnamed-chunk-41
 fig:unnamed-chunk-42
+fig:unnamed-chunk-43
 introduction
 gis-basics
+what-is-gis
+what-is-gis-used-for
+what-are-gis-data-types
+finding-gis-data
 building-maps-in-quantum-geographic-information-systems-qgis
-adding-a-spatial-dataset-to-qgis
+add-a-spatial-dataset-shapefile-to-qgis
 inspect-the-shapefiles-attribute-table
 add-tabular-csv-data-to-qgis
 join-the-tabular-data-student_debt_data-to-the-shapefile-usa_shapefile
