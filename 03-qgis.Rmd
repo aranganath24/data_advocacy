@@ -144,7 +144,7 @@ knitr::include_graphics("screenshots/symbology3dd.png")
 
 Once you do so, you'll see that field's data appear, with a default color scheme:
 
-```{r, echo=F, fig.cap="Default colors and intervals" }
+```{r, echo=F, fig.cap="Default colors and data intervals" }
 knitr::include_graphics("screenshots/default_legend.png")
 ```
 
